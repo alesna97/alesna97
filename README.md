@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-<p>Profile is currrently under construction.</p>
+<p>Profile is currently under construction.</p>
 
 <!--
 **alesna97/alesna97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
